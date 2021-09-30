@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-# on my branch
-red
-||||||| e8ea18c
-# on master
-red
-=======
-# on his branch
->>>>>>> his-branch
-green
-blue
-<<<<<<< HEAD
-light yellow
-||||||| e8ea18c
-yellow
-=======
-dark yellow
->>>>>>> his-branch
-white
-john
+# Tuto rebase
+
+A
