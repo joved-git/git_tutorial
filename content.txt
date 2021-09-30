@@ -1,8 +1,7 @@
-# on master
-red
+# on his branch
 green
 blue
-yellow
+dark yellow
 white
 john
 michael
