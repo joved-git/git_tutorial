@@ -1,8 +1,7 @@
-# on master
+# on my branch
 red
 green
 blue
-yellow
+light yellow
 white
 john
-michael
