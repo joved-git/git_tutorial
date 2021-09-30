@@ -1,3 +1,9 @@
 # Tuto rebase
 
+<<<<<<< HEAD
 BB
+||||||| constructed merge base
+B
+=======
+C
+>>>>>>> C
