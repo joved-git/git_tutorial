@@ -1,0 +1,3 @@
+# Common file between amster and my-branch
+
+on master C
