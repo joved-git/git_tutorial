@@ -5,3 +5,4 @@ client
 article
 price
 delay
+disponibility
