@@ -1,3 +1,9 @@
 # Common file between master and my-branch
 
+<<<<<<< HEAD
 on my-branch C22
+||||||| constructed merge base
+on master C2
+=======
+on master D
+>>>>>>> [master] D
